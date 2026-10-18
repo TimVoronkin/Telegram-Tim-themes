@@ -50,11 +50,8 @@ Telegram-Tim-themes/
 │   └── Android/
 │       └── OLED-Electric-Lime-Pure-Black.attheme
 │
-├── OLED Electric Lime.tdesktop-theme               # Quick install (Desktop)
-├── OLED Electric Lime.attheme                      # Quick install (Android)
-├── OLED Electric Lime Pure Black.tdesktop-theme    # Quick install (Desktop)
-├── OLED Electric Lime Pure Black.attheme           # Quick install (Android)
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
@@ -62,12 +59,12 @@ Telegram-Tim-themes/
 ## 🚀 Installation Guide
 
 ### Telegram Desktop (Windows, macOS, Linux):
-1. Download or send the `.tdesktop-theme` file to your Telegram (e.g. to **Saved Messages**).
+1. Send the `.tdesktop-theme` file to your Telegram (e.g. to **Saved Messages**).
 2. Click on the file inside Telegram.
 3. In the preview window, click **Apply this theme**.
 
 ### Telegram Android:
-1. Download or send the `.attheme` file to your Telegram.
+1. Send the `.attheme` file to your Telegram.
 2. Tap on the file inside Telegram.
 3. Tap **Apply**.
 
@@ -75,8 +72,13 @@ Telegram-Tim-themes/
 
 ## ☁️ How to Update Cloud Theme (`t.me/addtheme/...`)
 
-If you are the owner of the cloud theme link:
-1. Install the updated `.tdesktop-theme` on PC or `.attheme` on Android from your creator account.
-2. Go to **Settings** $\rightarrow$ **Chat Settings** $\rightarrow$ **Themes**.
-3. Click the three dots `⋮` on your theme $\rightarrow$ select **Save changes** / **Update theme for all**.
-4. All existing users and new visitors of your link will receive the update instantly.
+To update an existing cloud theme link without creating a new URL:
+
+1. **Be logged in with the creator's account:** The theme update must be performed from the Telegram account that originally registered `https://t.me/addtheme/OLED_Electric_Lime`.
+2. **Apply the updated theme locally:**
+   * **On PC:** Open `OLED-Electric-Lime.tdesktop-theme` and click *Apply*.
+   * **On Android:** Open `OLED-Electric-Lime.attheme` and click *Apply*.
+3. **Save changes to the Cloud link:**
+   * **On PC:** Go to **Settings** $\rightarrow$ **Chat Settings** $\rightarrow$ Click the `⋮` (three dots) menu in the themes block $\rightarrow$ Choose **"Update theme for all"** or **"Save theme"**.
+   * **On Android:** Go to **Settings** $\rightarrow$ **Chat Settings** $\rightarrow$ Click the `⋮` (three dots) menu in the top right $\rightarrow$ Choose **"Save changes to theme"** $\rightarrow$ Select your theme from the list.
+4. Telegram will push the updated file to the existing slug (`OLED_Electric_Lime`), preserving the exact same link for everyone.
