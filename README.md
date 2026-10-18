@@ -1,33 +1,36 @@
-# OLED Electric Lime — Авторські OLED-теми для Telegram ⚡️🟢
+# OLED Electric Lime — Telegram Themes ⚡️🟢
 
-Авторська серія тем для Telegram з акцентом на чистий чорний колір та кислотно-салатовий Electric Lime (`#bcf600`).
+A custom, minimalist, high-contrast OLED theme collection for Telegram.
 
----
-
-## 💡 Філософія та мотив
-
-* **Справжній Pure OLED Black (`#000000`):** на OLED/AMOLED екранах пікселі повністю вимикаються — інтерфейс не світиться в темряві, має бездоганну контрастність та максимально зберігає заряд батареї.
-* **Жодних градієнтів і тіней:** суцільні кольори без напівпрозорих тіней усувають помилки та шви під час створення довгих скріншотів (scrolling screenshots) на смартфонах.
-* **Читабельність і чіткість:** чорний текст на яскравих лаймових кнопках і лічильниках, відсутність зайвих «веселкових» кольорів.
+## 💡 Philosophy & Motif
+* **True OLED Black (`#000000`)**: Designed to completely turn off pixels on OLED/AMOLED displays, saving battery and reducing eye strain.
+* **Electric Lime (`#bcf600`)**: A single, sharp accent color used across the interface for high contrast and readability.
+* **Flat & Clean**: Zero gradients, zero shadows, and no visual clutter — ensuring seamless scrolling screenshots on mobile.
 
 ---
 
-## 🎨 Версії тем
+## ⚡️ Quick Install (Cloud Links)
 
-1. **OLED Electric Lime (Classic)**  
-   Класичний варіант з фірмовими суцільними темно-оливковими хмарками (`#293800`) для ваших повідомлень та виразним виділенням чатів.
+* **OLED Electric Lime (Classic)**: [t.me/addtheme/OLED_Electric_Lime](https://t.me/addtheme/OLED_Electric_Lime)  
+  *Dark olive outgoing bubbles (`#293800`), dark gray incoming bubbles, lime accents.*
 
-2. **OLED Electric Lime Pure**  
-   Експериментальний мінімалістичний концепт: у повідомлень взагалі немає фону (хмарок) — білий текст наче ширяє в абсолютно чорному просторі, а час, дати та галочки навмисно приглушені.
+* **OLED Electric Lime (Pure Black)**: [t.me/addtheme/OLED_Electric_Lime_Pure](https://t.me/addtheme/OLED_Electric_Lime_Pure)  
+  *Bubble-less pure black void with floating white text and dimmed metadata.*
 
 ---
 
-## 🚀 Як встановити
+## 📥 Manual Installation (Files)
 
-### Спосіб 1: В один клік за посиланням (підтримує всі платформи)
-* 🟢 **Класична версія:** [t.me/addtheme/OLED_Electric_Lime](https://t.me/addtheme/OLED_Electric_Lime)
-* ⚡️ **Pure Black версія:** [t.me/addtheme/OLED_Electric_Lime_Pure](https://t.me/addtheme/OLED_Electric_Lime_Pure)
+If you prefer installing directly from local files:
 
-### Спосіб 2: Вручну з файлів репозиторію
-* **Для комп'ютера (Telegram Desktop):** завантажте файл `.tdesktop-theme` із папки відповідної теми та відкрийте його в Telegram.
-* **Для смартфонів (Android):** завантажте файл `.attheme` та натисніть «Застосувати».
+### 1. Classic Theme (`OLED-Electric-Lime`)
+* **Desktop (Windows / macOS / Linux)**: [`OLED-Electric-Lime.tdesktop-theme`](OLED-Electric-Lime/Telegram-Desktop/OLED-Electric-Lime.tdesktop-theme)
+* **Android**: [`OLED-Electric-Lime.attheme`](OLED-Electric-Lime/Android/OLED-Electric-Lime.attheme)
+* **iOS**: [`OLED-Electric-Lime.tgtheme`](OLED-Electric-Lime/iOS/OLED-Electric-Lime.tgtheme)
+
+### 2. Pure Black Theme (`OLED-Electric-Lime-Pure-Black`)
+* **Desktop (Windows / macOS / Linux)**: [`OLED-Electric-Lime-Pure-Black.tdesktop-theme`](OLED-Electric-Lime-Pure-Black/Telegram-Desktop/OLED-Electric-Lime-Pure-Black.tdesktop-theme)
+* **Android**: [`OLED-Electric-Lime-Pure-Black.attheme`](OLED-Electric-Lime-Pure-Black/Android/OLED-Electric-Lime-Pure-Black.attheme)
+* **iOS**: [`OLED-Electric-Lime-Pure-Black.tgtheme`](OLED-Electric-Lime-Pure-Black/iOS/OLED-Electric-Lime-Pure-Black.tgtheme)
+
+> **How to apply:** Send the corresponding file to your **Saved Messages** in Telegram, tap on it, and select **Apply**.
