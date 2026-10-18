@@ -1,13 +1,9 @@
 # OLED Electric Lime — Telegram Themes ⚡️🟢
 
-A custom, minimalist, high-contrast OLED theme collection for Telegram.
-
-## 💡 Philosophy & Motif
 * **True OLED Black (`#000000`)**: Designed to completely turn off pixels on OLED/AMOLED displays, saving battery and reducing eye strain.
 * **Electric Lime (`#bcf600`)**: A single, sharp accent color used across the interface for high contrast and readability.
 * **Flat & Clean**: Zero gradients, zero shadows, and no visual clutter — ensuring seamless scrolling screenshots on mobile.
 
----
 
 ## ⚡️ Quick Install (Cloud Links)
 
@@ -17,11 +13,8 @@ A custom, minimalist, high-contrast OLED theme collection for Telegram.
 * **OLED Electric Lime (Pure Black)**: [t.me/addtheme/OLED_Electric_Lime_Pure](https://t.me/addtheme/OLED_Electric_Lime_Pure)  
   *Bubble-less pure black void with floating white text and dimmed metadata.*
 
----
-
 ## 📥 Manual Installation (Files)
 
-If you prefer installing directly from local files:
 
 ### 1. Classic Theme (`OLED-Electric-Lime`)
 * **Desktop (Windows / macOS / Linux)**: [`OLED-Electric-Lime.tdesktop-theme`](OLED-Electric-Lime/Telegram-Desktop/OLED-Electric-Lime.tdesktop-theme)
