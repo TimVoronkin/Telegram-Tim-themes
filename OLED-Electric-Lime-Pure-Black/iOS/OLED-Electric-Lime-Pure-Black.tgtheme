@@ -136,9 +136,9 @@ chatList_sectionHeaderText: #88888880
 chatList_verifiedIconBg: #bcf600
 chatList_verifiedIconFg: #ffffff
 chatList_secretIcon: #bcf600
-chatList_pinnedArchiveAvatar_background_top: #bcf600
-chatList_pinnedArchiveAvatar_background_bottom: #bcf600
-chatList_pinnedArchiveAvatar_foreground: #ffffff
+chatList_pinnedArchiveAvatar_background_top: #000000
+chatList_pinnedArchiveAvatar_background_bottom: #000000
+chatList_pinnedArchiveAvatar_foreground: #bcf600
 chatList_unpinnedArchiveAvatar_background_top: #000000
 chatList_unpinnedArchiveAvatar_background_bottom: #000000
 chatList_unpinnedArchiveAvatar_foreground: #000000
@@ -172,9 +172,9 @@ chat_message_incoming_scam: #e04545
 chat_message_incoming_textHighlight: #bcf600
 chat_message_incoming_accentText: #bcf600
 chat_message_incoming_accentControl: #bcf600
-chat_message_incoming_mediaActiveControl: #bcf600
+chat_message_incoming_mediaActiveControl: #000000
 chat_message_incoming_mediaInactiveControl: #88888880
-chat_message_incoming_mediaControlInnerBg: #000000
+chat_message_incoming_mediaControlInnerBg: #bcf600
 chat_message_incoming_pendingActivity: #88888880
 chat_message_incoming_fileTitle: #bcf600
 chat_message_incoming_fileDescription: #88888880
